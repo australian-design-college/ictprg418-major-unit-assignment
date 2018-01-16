@@ -1,0 +1,15 @@
+{
+  "name": "ictprg418-major-unit-assignment",
+  "version": "1.0.0",
+  "description": "Helper files for ICTPRG418 Major Unit Assignment.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/australian-design-college/ictprg418-major-unit-assignment.git"
+  },
+  "author": "Australian Design College",
+  "license": "UNLICENSED"
+}
